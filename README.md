@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**Splintergreen/Splintergreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/PYTHON-FCC624?&logo=python)
+![Django](https://img.shields.io/badge/DJANGO-%23092E20.svg?&logo=django)
+![REST](https://img.shields.io/badge/DJANGO-REST-FCC624?&logo=django&rest)
+![SQLite](https://img.shields.io/badge/SQLITE-%2307405e.svg?&logo=sqlite)
+![Postgres](https://img.shields.io/badge/POSTGRESQL-%13316192.svg?&logo=postgresql)
+![Nginx](https://img.shields.io/badge/NGINX-%23009639.svg?&logo=nginx)
+![Docker](https://img.shields.io/badge/DOCKER-696969?&logo=docker)
+![Linux](https://img.shields.io/badge/LINUX-AA0000?&logo=linux)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi)
+![UnitTest](https://img.shields.io/badge/Telegram-BOT-005571?&logo=telegram)
