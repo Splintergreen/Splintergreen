@@ -7,4 +7,5 @@
 ![Docker](https://img.shields.io/badge/DOCKER-696969?&logo=docker)
 ![Linux](https://img.shields.io/badge/LINUX-AA0000?&logo=linux)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi)
-![UnitTest](https://img.shields.io/badge/Telegram-BOT-005571?&logo=telegram)
+![TelegramBot](https://img.shields.io/badge/Telegram-BOT-005571?&logo=telegram)
+![Aiogram](https://img.shields.io/badge/Aiogram-005571?&logo=telegram)
