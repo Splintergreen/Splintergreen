@@ -9,3 +9,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?&logo=fastapi)
 ![TelegramBot](https://img.shields.io/badge/Telegram-BOT-005571?&logo=telegram)
 ![Aiogram](https://img.shields.io/badge/Aiogram-005571?&logo=telegram)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Splintergreen)](https://github.com/JuliaBars/github-profile-trophy)
